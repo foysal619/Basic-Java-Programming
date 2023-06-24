@@ -1,6 +1,6 @@
 # Basic-Java-Programming
 
-This is a practise java problem solving. Also added a doc file which contains the output screenshots.
+This is a practise java problem solving repository. Also I added a doc file which contains the output screenshots.
 
 ## Tools Used
 - Java Programming Language
